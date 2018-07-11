@@ -1,6 +1,6 @@
 {
   "name": "graft-tree",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Tree Data Structure with Multiple Branch Flavors",
   "main": "index.js",
   "scripts": {

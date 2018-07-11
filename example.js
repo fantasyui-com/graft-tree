@@ -1,9 +1,4 @@
-# graft-tree
-Tree Data Structure with Multiple Branch Flavors
-
-```JavaScript
-
-const Node = require('graft-tree');
+const Node = require('.');
 
 const dungeon = new Node('Dungeon');
 
@@ -32,6 +27,3 @@ dungeon.pipe('Bob');
 dungeon.pipe('Bob');
 dungeon.pipe('Bob');
 dungeon.pipe('Bob');
-
-
-```
